@@ -1,16 +1,63 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=Master-r-dev&fontSize=70)
+<div align="center"><h2>
+    Hello My name is Alex S, I am Web and IT-developer.
+</div>
 
-<!--
-**Master-r-dev/Master-r-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📌 Career
+    
+<div align="center"><strong>
+    
+</div>
 
-Here are some ideas to get you started:
+###
+|     *Date*      |         *Type*        |          *Contents*         | *Organization*|  *Details* |
+|:-------------:|:-------------------:|:-------------------------:|:----------:|:----------:|
+|  2021.11.05 ~ today   |      internship     |      developing CRM system | CheckAdvisor.ru       |  Node.js system with implementation of REST API CheckADvisor    | 
+|  2020.01.12 |  Education    |    publishing article about databases |  Moscow Polytechnic University  |     https://www.elibrary.ru/contents.asp?id=41808071       |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+# 🌟 Interests
+
+- ### Programming
+  * Python
+  * C languages (C,C++,C#)
+  * Node.js
+###
+
+# 🌠 Tech Stacks
+
+Techs that I've used at least once
+
+![Stack](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
+![Stack](https://img.shields.io/badge/JavaScript-3766AB?style=flat-square&logo=JavaScript&logoColor=white)
+![Stack](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+![Stack](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
+
+###
+![Stack](https://img.shields.io/badge/jupyter-FF8C00?style=flat-square&logo=jupyter&logoColor=white)
+![Stack](https://img.shields.io/badge/Slack-3e91b5?style=flat-square&logo=slack&logoColor=white)
+![Stack](https://img.shields.io/badge/VisualStudio-4b0082?style=flat-square&logo=VisualStudio&logoColor=white)
+![Stack](https://img.shields.io/badge/VisualStudioCode-4169e1?style=flat-square&logo=VisualStudioCode&logoColor=white)
+###
+# 📬 Contacts
+
+justm8just@gmail.com
+###
+###
+
+###
+# Grade
+
+|    *Semester*  |       *Fall-Winter*       |      *Spring-Summer*     |      
+|:-------------:|:-------------------:|:-------------------:|
+|    *1st year*    | ![Grade](https://img.shields.io/badge/grade-5%2F5-green)| ![Grade](https://img.shields.io/badge/grade-5%2F5-green)
+|    *2nd year*    | ![Grade](https://img.shields.io/badge/grade-5%2F5-green)| ![Grade](https://img.shields.io/badge/grade-5%2F5-green)
+|    *3rd year*    | ![Grade](https://img.shields.io/badge/grade-5%2F5-green)| ![Grade](https://img.shields.io/badge/grade-5%2F5-green)
+|    *4th year*    | ![Grade](https://img.shields.io/badge/grade-5%2F5-green)|  in progress
+
+
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=master-r-dev&layout=compact&theme=tokyonight)
+
