@@ -34,6 +34,7 @@ Techs that I've used at least once
 ![Stack](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![Stack](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![Stack](https://img.shields.io/badge/C%23-purple?style=flat-square&logo=C%23&logoColor=white)
+![Stack](https://img.shields.io/badge/PHP-grey?style=flat-square&logo=PHP&logoColor=white)
 ###
 ![Stack](https://img.shields.io/badge/AndroidStudio-lightgreen?style=flat-square&logo=Android&logoColor=white)
 ![Stack](https://img.shields.io/badge/NodeJS-green?style=flat-square&logo=Node.JS&logoColor=white)
