@@ -39,6 +39,7 @@ Techs that I've used at least once
 ![Stack](https://img.shields.io/badge/AndroidStudio-lightgreen?style=flat-square&logo=Android&logoColor=white)
 ![Stack](https://img.shields.io/badge/NodeJS-green?style=flat-square&logo=Node.JS&logoColor=white)
 ![Stack](https://img.shields.io/badge/MongoDB-darkgreen?style=flat-square&logo=MongoDB&logoColor=white)
+![Stack](https://img.shields.io/badge/MySQL-lightblue?style=flat-square&logo=MySQL&logoColor=white)
 ![Stack](https://img.shields.io/badge/jupyter-FF8C00?style=flat-square&logo=jupyter&logoColor=white)
 ![Stack](https://img.shields.io/badge/Slack-3e91b5?style=flat-square&logo=slack&logoColor=white)
 ![Stack](https://img.shields.io/badge/VisualStudio-4b0082?style=flat-square&logo=VisualStudio&logoColor=white)
