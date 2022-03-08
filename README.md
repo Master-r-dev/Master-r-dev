@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=Master-r-dev&fontSize=70)
 <div align="center"><h2>
-    Hello My name is Alex S, I am Web and IT-developer.
+    Greetings, My name is Alex. I am Web and IT-developer.
 </div>
 
 # 📌 Career
@@ -12,49 +12,46 @@
 ###
 |     *Date*      |         *Type*        |          *Contents*         | *Organization*|  *Details* |
 |:-------------:|:-------------------:|:-------------------------:|:----------:|:----------:|
-|  2021.11.05 ~ today   |      internship     |      developing CRM system | CheckAdvisor.ru       |  Node.js system with implementation of REST API CheckADvisor    | 
-|  2020.01.12 |  Education    |    published article about databases |  Moscow Polytechnic University  |     https://www.elibrary.ru/contents.asp?id=41808071       |
+|  2021.11.05 ~ today   |      internship     |      developing CRM system | CheckAdvisor.ru       |  Node.js system with implementation of REST API CheckAdvisor    | 
+|  2020.10.13 ~ 2021.06.07 |  Education    |    created ASP.NET 5.0 CRM app with notifications,chat,logs and automatic charts |  Moscow Polytechnic University  |     https://github.com/Master-r-dev/biz_collab       |
+|  2020.01.12 |  Education    |    Made research about databases and published article in science paper |  Moscow Polytechnic University  |     https://www.elibrary.ru/contents.asp?id=41808071       |
 
 
 
-# 🌟 Interests
-
-- ### Programming
-  * Python
-  * C languages (C,C++,C#)
-  * Node.js
-###
-
+# 👨‍💻 Main Programming languages
+  *  ![Stack](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white)
+  *  ![Stack](https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white)
+  *  ![Stack](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=CSharp&logoColor=white)
+  *  ![Stack](https://img.shields.io/badge/PHP-grey?style=for-the-badge&logo=PHP&logoColor=white)
+  *  ![Stack](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
+  *  ![Stack](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
+    
 # 🌠 Tech Stacks
-
-Techs that I've used at least once
-
-![Stack](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
-![Stack](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white)
-![Stack](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
-![Stack](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
-![Stack](https://img.shields.io/badge/C%23-purple?style=flat-square&logo=CSharp&logoColor=white)
-![Stack](https://img.shields.io/badge/PHP-grey?style=flat-square&logo=PHP&logoColor=white)
-###
+### 
+![Stack](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=Node.JS&logoColor=white)
+![Stack](https://img.shields.io/badge/Visual_Studio_Code-4169e1?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
+![Stack](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=MongoDB&logoColor=white)
+![Stack](https://img.shields.io/badge/jQuery-orange?style=flat-square&logo=jQuery&logoColor=white)
 ![Stack](https://img.shields.io/badge/AndroidStudio-lightgreen?style=flat-square&logo=Android&logoColor=white)
-![Stack](https://img.shields.io/badge/NodeJS-green?style=flat-square&logo=Node.JS&logoColor=white)
-![Stack](https://img.shields.io/badge/MongoDB-darkgreen?style=flat-square&logo=MongoDB&logoColor=white)
 ![Stack](https://img.shields.io/badge/MySQL-lightblue?style=flat-square&logo=MySQL&logoColor=white)
 ![Stack](https://img.shields.io/badge/jupyter-FF8C00?style=flat-square&logo=jupyter&logoColor=white)
 ![Stack](https://img.shields.io/badge/Slack-3e91b5?style=flat-square&logo=slack&logoColor=white)
 ![Stack](https://img.shields.io/badge/VisualStudio-4b0082?style=flat-square&logo=VisualStudio&logoColor=white)
-![Stack](https://img.shields.io/badge/VisualStudioCode-4169e1?style=flat-square&logo=VisualStudioCode&logoColor=white)
+![Stack](https://img.shields.io/badge/Photoshop-darkblue?style=flat-square&logo=AdobePhotoshop&logoColor=white)   
+![Stack](https://img.shields.io/badge/PremierePro-black?style=flat-square&logo=AdobePremierePro&logoColor=white)
+![Stack](https://img.shields.io/badge/AfterEffects-purple?style=flat-square&logo=AdobeAfterEffects&logoColor=white)
+![Stack](https://img.shields.io/badge/Audition-darkgreen?style=flat-square&logo=AdobeAudition&logoColor=white)
 ###
 # 📬 Contacts
 
-justm8just@gmail.com
+justm8just@gmail.com (not main email,if you get me interested - I will give you my work email)
 ###
 ###
 
 ###
-# Grade
+# 💯 Grades
 
-|    *Semester*  |       *Fall-Winter*       |      *Spring-Summer*     |      
+|    *Year*  |       *Fall-Winter*       |      *Spring-Summer*     |      
 |:-------------:|:-------------------:|:-------------------:|
 |    *1st year*    | ![Grade](https://img.shields.io/badge/grade-5%2F5-green)| ![Grade](https://img.shields.io/badge/grade-5%2F5-green)
 |    *2nd year*    | ![Grade](https://img.shields.io/badge/grade-5%2F5-green)| ![Grade](https://img.shields.io/badge/grade-5%2F5-green)
