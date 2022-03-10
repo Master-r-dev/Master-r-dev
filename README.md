@@ -43,13 +43,24 @@
 ![Stack](https://img.shields.io/badge/Audition-darkgreen?style=flat-square&logo=AdobeAudition&logoColor=white)
 ###
 # 📬 Contacts
+###
+    solobutoalexey@gmail.com (for work only)
+###
 
-justm8just@gmail.com (not main email,if you get me interested - I will give you my work email)
+# ✔️ Also
 ###
+    High Performance && Responsibility && (Good at Team work || Can work solo );
+    Able to plan, organize, and prioritize work ;
+    Able to start all over from scratch if needed ;
+    I learn new things and implement them promptly ;
+    Stress resistance ;
+    C1 knowledge level of English language ;
+    A1 knowledge level of French language ;
+    A2 knowledge level of Ukranian language ;
 ###
-
+    
 ###
-# 💯 Grades
+# 💯 University Grades
 
 |    *Year*  |       *Fall-Winter*       |      *Spring-Summer*     |      
 |:-------------:|:-------------------:|:-------------------:|
@@ -62,4 +73,5 @@ justm8just@gmail.com (not main email,if you get me interested - I will give you 
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=master-r-dev&layout=compact&theme=tokyonight)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=master-r-dev&layout=compact&theme=tokyonight)](https://github.com/master-r-dev/github-readme-stats)
+    
