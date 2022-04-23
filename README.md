@@ -67,7 +67,7 @@
 |    *1st year*    | ![Grade](https://img.shields.io/badge/grade-5%2F5-green)| ![Grade](https://img.shields.io/badge/grade-5%2F5-green)
 |    *2nd year*    | ![Grade](https://img.shields.io/badge/grade-5%2F5-green)| ![Grade](https://img.shields.io/badge/grade-5%2F5-green)
 |    *3rd year*    | ![Grade](https://img.shields.io/badge/grade-5%2F5-green)| ![Grade](https://img.shields.io/badge/grade-5%2F5-green)
-|    *4th year*    | ![Grade](https://img.shields.io/badge/grade-5%2F5-green)|  in progress
+|    *4th year*    | ![Grade](https://img.shields.io/badge/grade-5%2F5-green)| ![Grade](https://img.shields.io/badge/grade-5%2F5-green)
 
 
 
