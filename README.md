@@ -12,7 +12,7 @@
 ###
 |     *Date*      |         *Type*        |          *Contents*         | *Organization*|  *Details* |
 |:-------------:|:-------------------:|:-------------------------:|:----------:|:----------:|
-|  2021.11.05 ~ today   |      internship     |      developing CRM system | CheckAdvisor.ru       |  Node.js system with implementation of REST API CheckAdvisor    | 
+|  2021.11.05 ~ 2022.04.22   |      Internship     |   Node.js system with implementation of REST API CheckAdvisor     | CheckAdvisor.ru       |   Created and implemented CRM system with integration of REST API CheckAdvisor . Wrote on Node.js using MongoDB, jQuery, Passport, encryption and communicated with employer by Slack . Finished this solo project in ~2 months and for the rest of employment time was doing minor style and code changes to it.  | 
 |  2020.10.13 ~ 2021.06.07 |  Education    |    created ASP.NET 5.0 CRM app with notifications,chat,logs and automatic charts |  Moscow Polytechnic University  |     https://github.com/Master-r-dev/biz_collab       |
 |  2020.01.12 |  Education    |    Made research about databases and published article in science paper |  Moscow Polytechnic University  |     https://www.elibrary.ru/contents.asp?id=41808071       |
 
@@ -49,10 +49,14 @@
 
 # ✔️ Also
 ###
-    High Performance && Responsibility && (Good at Team work || Can work solo );
+    Experienced Web Developer adept in all stages of advanced web development.
+    Knowledgeable in user interface, testing, and debugging processes.
+    Bringing forth expertise in design, installation, testing and maintenance of web systems.
+    Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
     Able to plan, organize, and prioritize work ;
     Able to start all over from scratch if needed ;
-    I learn new things and implement them promptly ;
+    I can learn new things and implement them promptly ;
+    Stress resistance ; implement them promptly ;
     Stress resistance ;
     C1 knowledge level of English language ;
     A1 knowledge level of French language ;
