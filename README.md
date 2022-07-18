@@ -13,7 +13,7 @@
 |     *Date*      |         *Type*        |          *Contents*         | *Organization*|  *Details* |
 |:-------------:|:-------------------:|:-------------------------:|:----------:|:----------:|
 |  2022.01.02 ~ 2022.07.01 |  Job |    made talon,info,statistics and operator systems for line.copy.spb.ru website |  OQ Print  | https://line.copy.spb.ru/      |
-|  2021.11.05 ~ 2022.04.22   |      Internship     |   Node.js system with implementation of REST API CheckAdvisor     | CheckAdvisor.ru       |   Created and implemented RBAC system with integration of REST API CheckAdvisor . Wrote on Node.js using MongoDB, jQuery, EJS,  Passport, encryption and communicated with employer by Slack . Finished this solo project in ~2 months and for the rest of employment time was doing minor style and code changes to it.  | 
+|  2021.11.05 ~ 2022.04.22   |      Internship     |   Node.js system with implementation of REST API CheckAdvisor     | CheckAdvisor.ru       |   https://github.com/Master-r-dev/NodeJS-SPS  | 
 |  2020.10.13 ~ 2021.06.07 |  Education    |    created ASP.NET 5.0 RBAC app with notifications,chat,logs and automatic charts |  Moscow Polytechnic University  |     https://github.com/Master-r-dev/biz_collab       |
 |  2020.01.12 |  Education    |    Made research about databases and published article in science paper |  Moscow Polytechnic University  |     https://www.elibrary.ru/contents.asp?id=41808071       |
 |  2019.11.15 ~ 2019.11.30 |  Education    |    Created a web site to check the design of the site for various screen resolutions in JavaScript using jQuery |  Moscow Polytechnic University  |     https://github.com/Master-r-dev/CheckResolutionRUS     |
