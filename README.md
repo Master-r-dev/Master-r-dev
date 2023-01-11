@@ -75,8 +75,3 @@
 |    *3rd year*    | ![Grade](https://img.shields.io/badge/grades-5%2F5-green)| ![Grade](https://img.shields.io/badge/grades-5%2F5-green)
 |    *4th year*    | ![Grade](https://img.shields.io/badge/grades-5%2F5-green)| ![Grade](https://img.shields.io/badge/grades-5%2F5-green)
 
-
-
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=master-r-dev&layout=compact&theme=tokyonight)
-    
