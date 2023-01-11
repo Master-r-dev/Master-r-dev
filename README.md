@@ -26,7 +26,6 @@
   *  ![Stack](https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white)
   *  ![Stack](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=CSharp&logoColor=white)
   *  ![Stack](https://img.shields.io/badge/PHP-grey?style=for-the-badge&logo=PHP&logoColor=white)
-  *  ![Stack](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
   *  ![Stack](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
     
 # 🌠 Tech Stacks
@@ -80,5 +79,4 @@
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=master-r-dev&layout=compact&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=master-r-dev&layout=compact&theme=tokyonight)](https://github.com/master-r-dev/github-readme-stats)
     
