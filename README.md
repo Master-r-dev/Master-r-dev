@@ -13,6 +13,7 @@
 |     *Date*      |         *Type*        |          *Contents*         | *Organization*|  *Details* |
 |:-------------:|:-------------------:|:-------------------------:|:----------:|:----------:|
 |  2022.01.02 ~ now |  Job |    Made talon,info,statistics and operator systems for line.copy.spb.ru website |  OQ Print  | https://line.copy.spb.ru/      |
+|  2022.05.02 ~ 2022.06.02 |  Job |    Made from scratch full website and mobile version |  DvizhMash  | https://dvizhmash.com/     |
 |  2021.11.05 ~ 2022.04.22   |   Job   |   Node.js system with implementation of REST API CheckAdvisor     | CheckAdvisor.ru       |   https://github.com/Master-r-dev/NodeJS-SPS  | 
 |  2020.08.02 ~ 2021.09.11   |   Freelance   |   Providing my software engineering services as self-employed    | – |   Most of that time, projects involved С#(ASP.NET), PHP(Laravel) and Python (Django) with MongoDB or phpMyAdmin for working with database. For frontend, I used frameworks such as Angular, Vue, React.  | 
 |  2020.10.13 ~ 2021.06.07 |  Education    |    created ASP.NET 5.0 RBAC app with notifications,chat,logs and automatic charts |  Moscow Polytechnic University  |     https://github.com/Master-r-dev/biz_collab       |
