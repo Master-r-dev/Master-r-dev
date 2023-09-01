@@ -12,9 +12,10 @@
 ###
 |     *Date*      |         *Type*        |          *Contents*         | *Organization*|  *Details* |
 |:-------------:|:-------------------:|:-------------------------:|:----------:|:----------:|
-|  2022.01.02 ~ now |  Job |    Made talon,info,statistics and operator systems for line.copy.spb.ru website |  OQ Print  | https://line.copy.spb.ru/      |
-|  2023.05.02 ~ 2023.06.02 |  Job |    Made from scratch full website and mobile version |  DvizhMash  | https://dvizhmash.com/     |
-|  2021.11.05 ~ 2022.04.22   |   Job   |   Node.js system with implementation of REST API CheckAdvisor     | CheckAdvisor.ru       |   https://github.com/Master-r-dev/NodeJS-SPS  | 
+|  2023.07.15 ~ now |   Freelance |   Made secure REST API using best coding modern practices . Did major refactoring and improvements, team leading in other Defimoon and partner projects | Defimoon  | in progress      |
+|  2022.01.02 ~ now |   Freelance |    Made talon,info,statistics and operator systems for line.copy.spb.ru website |  OQ Print  | https://line.copy.spb.ru/      |
+|  2023.05.02 ~ 2023.06.02 |   Freelance |    Made from scratch full website and mobile version |  DvizhMash  | https://dvizhmash.com/     |
+|  2021.11.05 ~ 2022.04.22   |    Freelance  |   Node.js system with implementation of REST API CheckAdvisor     | CheckAdvisor.ru       |   https://github.com/Master-r-dev/NodeJS-SPS  | 
 |  2020.08.02 ~ 2021.09.11   |   Freelance   |   Providing my software engineering services as self-employed    | – |   Most of that time, projects involved С#(ASP.NET), PHP(Laravel) and Python (Django) with MongoDB or phpMyAdmin for working with database. For frontend, I used frameworks such as Angular, Vue, React.  | 
 |  2020.10.13 ~ 2021.06.07 |  Education    |    created ASP.NET 5.0 RBAC app with notifications,chat,logs and automatic charts |  Moscow Polytechnic University  |     https://github.com/Master-r-dev/biz_collab       |
 |  2020.01.12 |  Education    |    Made research about databases and published article in science paper |  Moscow Polytechnic University  |     https://www.elibrary.ru/contents.asp?id=41808071       |
