@@ -46,6 +46,6 @@
     prioritizing tasks effectively even in high-pressure situations.
 
     C1 knowledge level of English language ;
-    A1 knowledge level of French language ;
+    A2 knowledge level of Spanish language ;
     A2 knowledge level of Ukranian language ;
 ###
