@@ -1,16 +1,34 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=Master-r-dev&fontSize=70)
+<div align="center"><h2>
+    Greetings, My name is Alex. I am Full Stack Web Developer.
+</div>
 
-<!--
-**Master-r-dev/Master-r-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 Main Programming languages
+  *  ![Stack](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white)
+  *  ![Stack](https://img.shields.io/badge/Node-3766AB?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  *  ![Stack](https://img.shields.io/badge/Vue-green?style=for-the-badge&logo=vuedotjs&logoColor=white)
+  *  ![Stack](https://img.shields.io/badge/PHP-grey?style=for-the-badge&logo=PHP&logoColor=white)
+  *  ![Stack](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
+    
+---
+###
+# 📬 Contacts
+###
+    justm8just@gmail.com (for work only)
+###
 
-Here are some ideas to get you started:
+# ✔️ Also
+###
+    Experienced Web Developer with a comprehensive skill set
+    spanning all facets of advanced web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    > Proven ability to independently manage projects with efficiency.
+    > Collaborative team player, leveraging collective knowledge and coopera￾tion to drive productivity.
+    > Exceptional time management skills, adept at planning, organizing, and
+    prioritizing tasks effectively even in high-pressure situations.
+
+    C1 knowledge level of English language ;
+    A2 knowledge level of Spanish language ;
+    B1 knowledge level of Ukranian language ;
+###
+
