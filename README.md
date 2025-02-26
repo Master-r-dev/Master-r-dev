@@ -31,9 +31,9 @@
     spanning all facets of advanced web development.
 
     > Proven ability to independently manage projects with efficiency.
-    > Collaborative team player, leveraging collective knowledge and coopera￾tion to drive productivity.
-    > Exceptional time management skills, adept at planning, organizing, and
-    prioritizing tasks effectively even in high-pressure situations.
+    > Collaborative team player, leveraging cooperation to drive productivity.
+    > Exceptional time management, planning, and organizational skills.
+    > Adept at prioritizing tasks effectively even in high-pressure situations.
 
     C1 knowledge level of English language ;
     A2 knowledge level of Spanish language ;
