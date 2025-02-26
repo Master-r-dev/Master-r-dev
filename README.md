@@ -5,10 +5,13 @@
 
 # 👨‍💻 Main Programming languages
   *  ![Stack](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white)
-  *  ![Stack](https://img.shields.io/badge/Node-3766AB?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  *  ![Stack](https://img.shields.io/badge/Vue-green?style=for-the-badge&logo=vuedotjs&logoColor=white)
+      *  ![Stack](https://img.shields.io/badge/Node-3766AB?style=for-the-badge&logo=nodedotjs&logoColor=white)
+      *  ![Stack](https://img.shields.io/badge/Vue-green?style=for-the-badge&logo=vuedotjs&logoColor=white)
+      *  ![Stack](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
   *  ![Stack](https://img.shields.io/badge/PHP-grey?style=for-the-badge&logo=PHP&logoColor=white)
-  *  ![Stack](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
+      * ![Stack](https://img.shields.io/badge/Laravel-orange?style=for-the-badge&logo=Laravel&logoColor=white)
+  *  ![Stack](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor=black)
+      * ![Stack](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=Django&logoColor=white)
     
 ---
 ###
