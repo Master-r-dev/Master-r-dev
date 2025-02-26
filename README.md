@@ -1,7 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=Master-r-dev&fontSize=70)
-<div align="center"><h2>
-    Greetings, My name is Alex. I am Full Stack Web Developer.
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=4&height=150&section=header&text=Master-r-dev&fontSize=70)
+<div align="center">
+    <h2>Greetings, My name is Al.</h2>
+    <h2>I accept offers starting from >20€/hour* | >3000€/month (full-time rate).</h2>
+    * for smaller freelance projects or tasks, I'm open to discuss a tailored rate around 15€/hour
 </div>
+
+---
 
 # 👨‍💻 Main Programming languages
   *  ![Stack](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white)
@@ -14,6 +18,7 @@
       * ![Stack](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=Django&logoColor=white)
     
 ---
+
 ###
 # 📬 Contacts
 ###
